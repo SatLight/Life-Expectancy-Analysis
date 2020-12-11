@@ -22,16 +22,23 @@ This project was made in Jupyter notebook. To setup jupyter on your system:
 
 The following packages also need to be installed for our project. The package manager ‘pip’ can be used for these installations as below:
         pip install numpy
+        
         pip install pandas
+        
         pip install seaborn
+        
         pip install matplotlib
+        
         pip install scipy
+        
         pip install scikit-learn
+        
 
 
 
 
 To start jupyter notebook, type the following in CMD
+
         jupyter notebook
 
 
