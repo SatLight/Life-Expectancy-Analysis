@@ -48,7 +48,7 @@ To start jupyter notebook, type the following in CMD
 
 
 
-Execution and reproduce results
+Execute every cell to reproduce results
 
 
 
